@@ -5,8 +5,8 @@ import sys
 # Khởi tạo Pygame
 pygame.init()
 
-# Kích thước màn hình dsfsdafasdf
-WIDTH = 480
+# Kích thước màn hình dsfsdafasdfsd fdsaf
+WIDTH = 480 
 HEIGHT = 640
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Game Bắn Máy Bay")
