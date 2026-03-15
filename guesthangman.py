@@ -1,4 +1,4 @@
-# hangman.py
+# hangman.py fsadf
 import random
 
 WORDS = ["python","laptrinh","giaanh","baiviet","nguoi"]
