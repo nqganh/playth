@@ -5,7 +5,7 @@ import sys
 # Khởi tạo Pygame
 pygame.init()
 
-# Kích thước màn hình
+# Kích thước màn hình dsfsdafasdf
 WIDTH = 480
 HEIGHT = 640
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
